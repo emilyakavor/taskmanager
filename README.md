@@ -17,7 +17,11 @@ The project will contain the frontend and backend.
             b. ```npm run dev```
 3. To test app use below credentials  
    email: [admin@example.com](admin@example.com)  
-   password: user
+   password: admin
+
+    OR  
+   email: [user@example.com](user@example.com)  
+   password: user 
 
 ## Contributing
 
