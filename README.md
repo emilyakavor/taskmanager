@@ -13,8 +13,8 @@ The project will contain the frontend and backend.
    a. If you are in IDE and after building the project, you can run ```mvn spring-boot:run``` or
    b. If you package as a war file. you can run ```java -jar target/m<jar-file-name>.jar```
 2. Run the frontend in dev env.  
-            a. Do ```mvn install```  
-            b. ```mvn run dev```
+            a. Do ```npm install```  
+            b. ```npm run dev```
 3. To test app use below credentials  
    email: [admin@example.com](admin@example.com)  
    password: user
